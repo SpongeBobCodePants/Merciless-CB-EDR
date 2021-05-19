@@ -25,5 +25,3 @@ The requirements.txt file is going to be a mess until the interface stabilizes.
 * https://developer.carbonblack.com/reference/enterprise-response/6.3/rest-api/
 * https://cbapi.readthedocs.io/en/latest/response-api.html
 * https://github.com/carbonblack/cbapi-python
-
-test
