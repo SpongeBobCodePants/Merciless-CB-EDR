@@ -1,4 +1,3 @@
-venv_merciless-cb-edr/.gitignore
 venv_merciless-cb-edr/pyvenv.cfg
 venv_merciless-cb-edr/Lib/site-packages/decorator.py
 venv_merciless-cb-edr/Lib/site-packages/easy_install.py
@@ -2645,3 +2644,4 @@ venv_merciless-cb-edr/Scripts/python.exe
 venv_merciless-cb-edr/Scripts/pythonw.exe
 .carbonblack/credentials.response
 .carbonblack/credentials.response.example.txt
+.gitignore
