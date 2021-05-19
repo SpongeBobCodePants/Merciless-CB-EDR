@@ -1,6 +1,6 @@
 ## Merciless Carbon Black Response/EDR Export Tool
 
-This is a console-based tool to facilitate exporting date from the Carbon Black Response/EDR web application. CBAPI is leveraged to make this work. This is barely a project. Hopefully, more to come...
+This is a console-based tool to facilitate exporting data from the Carbon Black Response/EDR web application. CBAPI is leveraged to make this work. This is barely a project. Hopefully, more to come...
 
 ### Notable
 
