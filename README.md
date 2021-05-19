@@ -13,7 +13,7 @@ to something like:
 
 *self._batch_size = 5000
 
-This will retrieve more data per trip to the server, but may result in errors if the value is too large. Special thanks to RandomRhythm for this!
+This will retrieve more data per trip to the server, but may result in errors if the value is too large. Special thanks to @RandomRhythm for this!
 
 #### Requirements
 
