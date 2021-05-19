@@ -13,15 +13,16 @@ to something like:
 
 *self._batch_size = 5000
 
-This will retrieve more data per trip to the server, but may result in errors if the value is too large. Special thanks to @RandomRhythm for this!
+This will retrieve more data per trip to the server, but may result in errors if the value is too large. Special thanks to RandomRhythm for this!
 
 #### Requirements
 
-The requirements.txt file is going to be a mess until the interface stabilizes.
+The requirements.txt file is going to be a mess until the interface stabilizes.sss
 
 ### Also see
+
 *https://github.com/RandomRhythm/Rhythm-CB-Scripts
-*https://cbapi.readthedocs.io/en/latest/response-api.html
 *https://developer.carbonblack.com/reference/enterprise-response/6.3/rest-api/
+*https://cbapi.readthedocs.io/en/latest/response-api.html
 *https://github.com/carbonblack/cbapi-python
 
